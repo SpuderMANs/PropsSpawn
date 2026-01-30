@@ -16,6 +16,34 @@ To get started, make sure you have:
 Place the plugin DLL inside your EXILED plugins folder and restart the server.
 
 ---
+## How to use Prop Gun
+
+When you equip the **Prop Gun**, a GUI will appear showing the currently selected mode  
+(**Spawn**, **Delete**, **Move**, or **Rotate**).
+
+You can switch between modes by pressing **ALT** (or the key bound to **NoClip**).
+You can also change the axis of rotation using the R command (Reloading Command) while in Rotate mode.
+
+---
+
+### Spawn mode
+To spawn a prop, select it via the **Remote Admin console**
+Example: `pr spawn boxe`
+You can replace `boxe` with any available prop name.  
+To see the full list of available props, use: `pr list`
+
+### Delete mode
+Switch to **Delete** mode and shoot at a prop to remove it.
+
+### Move mode
+Switch to **Move** mode and shoot a prop to select it.  
+Then shoot at another position to move the prop there.
+
+### Rotate mode
+Switch to **Rotate** mode and shoot a prop to rotate it.  
+While in Rotate mode, you can change the rotation axis by pressing **R**.
+
+
 
 ## Features
 
