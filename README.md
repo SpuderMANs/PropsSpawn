@@ -1,7 +1,7 @@
 # PropsSpawn
 **PropsSpawn** is a plugin for SCP: Secret Laboratory using EXILED . Introduces a simple way to spawn props (predefined SCP:SL prefabs). You can manage these props however you like, moving them, rotating them, and more! It is designed to make map customization fast, intuitive, and fully in-game, without needing external map editors.
 
-![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/SpuderMANs/PropsSpawn/total)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/SpuderMANs/PropsSpawn/total?style=for-the-badge)
 ![Latest](https://img.shields.io/github/v/release/SpuderMANs/PropsSpawn?style=for-the-badge&label=Latest%20Release&color=%23D91656)
 
 ---
