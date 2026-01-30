@@ -10,6 +10,7 @@
 To get started, make sure you have:
 
 * EXILED installed
+* Hint Service Meow
 * A compatible SCP: Secret Laboratory server
 
 Place the plugin DLL inside your EXILED plugins folder and restart the server.
